@@ -2,7 +2,6 @@
 
 - Repositório para armazenar o Trabalho Final da disciplina de Teoria da Computação da Universidade Federal de Lavras.
 
-<br><br>
 ## 👨‍ &nbsp;Autor
 - Vitor Melo Assunção 
 
